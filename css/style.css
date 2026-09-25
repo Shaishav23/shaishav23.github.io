@@ -1002,11 +1002,6 @@ figure {
 #fh5co-footer p:last-child {
   margin-bottom: 0;
 }
-#fh5co-footer a {
-  color: #4d4d4d !important;
-  text-decoration: underline;
-  font-weight: bold;
-}
 
 .contact-info {
   margin-bottom: 4em;
